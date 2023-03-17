@@ -1,6 +1,6 @@
-export interface Chambre {
+export interface IChambre {
     etage: number;
-    numero: number;
+    chambre: number;
     description: string;
     capacite: number;
     prix: number;

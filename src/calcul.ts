@@ -1,1 +1,0 @@
-export const basicCalcul = (): number => 2 + 2; 
